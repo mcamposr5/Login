@@ -1,0 +1,4 @@
+mvn sonar: sonar \ 
+  -Dsonar.projectKey = Login \ 
+  -Dsonar.host.url = http: // localhost: 9000 \ 
+  -Dsonar.login = 669b200e3808bbf6909d52b885af028b479fb605
